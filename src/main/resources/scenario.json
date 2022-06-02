@@ -1,0 +1,26 @@
+[
+  {
+    "id": "new-order-buy",
+    "description": "Place new buy order scenario",
+    "tables": [
+      "accounts",
+      "quotes",
+      "orders",
+      "portfolios",
+      "portfoliosex",
+      "allocation"
+    ]
+  },
+  {
+    "id": "new-order-sell",
+    "description": "Place new sell order scenario",
+    "tables": [
+      "accounts",
+      "quotes",
+      "orders",
+      "portfolios",
+      "portfoliosex",
+      "allocation"
+    ]
+  }
+]
